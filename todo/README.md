@@ -15,3 +15,4 @@ Features:
 
 6.Delete any movie entry
 
+Technologies Used: HTML, CSS, JavaScript, RactJs.
