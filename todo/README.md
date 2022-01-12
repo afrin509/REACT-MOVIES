@@ -1,5 +1,8 @@
 #REACT-MOVIES
+
+
 Features:
+
 1.To filter movies based on genre
 2.Sort movies based on rating
 3.Sort movies based on stock
